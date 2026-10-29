@@ -18,4 +18,4 @@ Semana 2
 * Tabla y diagrama
 
 Semana 3
-* Avance del reto
+* Avance del proyecto

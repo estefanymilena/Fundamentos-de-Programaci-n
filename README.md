@@ -19,3 +19,6 @@ Semana 2
 
 Semana 3
 * Avance del proyecto
+
+Semana 4
+* Tabla pitagoras 

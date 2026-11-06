@@ -10,25 +10,25 @@ Carrera: Comercios y Negocios Internacionales
 
 Semana 1
 * Documentos del profesor
-* Entregables
+* Entregables:
   - Mi rutina Diaria 
   - Calculadora
   - Sanciones
 
 Semana 2
 * Documentos del profesor
-* Entregables
+* Entregables:
   - Tabla y diagrama
   - Taquilla-museo
 
 Semana 3
-* Documentos del profe
-* Avance del proyecto
+* Documentos del profesor
+* Avance del proyecto:
   - Diagrama de flujo
   - Prototipo inicial
   - Reporte del avance
 
 Semana 4
-* Documentos del profe
-* Entregables
+* Documentos del profesor
+* Entregables:
   - Tabla de pitagoras 
